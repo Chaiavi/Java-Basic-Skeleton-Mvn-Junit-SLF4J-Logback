@@ -8,7 +8,7 @@ Feel free to just clone/fork/download, change the package and class names and be
 Nothing fancy about this project, this is a simple timesaver, you will find in it:
 - Dependencies already configured in the pom.xml  
 - logback basic xml configuration with console and file configurations
-- Installation plugin, so you can use mvn install to get a jar of your project
+- Installation plugin, so you can use mvn install to get a jar of your project (with all libs inside the Jar file)
 
 
 So what are you waiting for ?
