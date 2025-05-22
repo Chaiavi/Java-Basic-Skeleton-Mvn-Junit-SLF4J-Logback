@@ -14,3 +14,18 @@ Nothing fancy about this project, this is a simple timesaver, you will find in i
 So what are you waiting for ?
 Download, use and start coding :-)
 
+
+
+# How to use
+- Run the Hello World so you can check that everything works fine
+- Run the Junit Test
+- Disconnect from the Skeleton Project
+  - Close the IDE
+  - Delete the .git folder
+  - Open the ide
+  - Import the project from Disk
+  - Change the project name in the maven file
+  - Run and see that everything works
+- Create your new project
+  - Create a new project in github
+  - Upload these files to your new project
