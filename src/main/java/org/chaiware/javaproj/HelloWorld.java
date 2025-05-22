@@ -12,7 +12,7 @@ public class HelloWorld {
     public static void main(String[] args) throws InterruptedException {
         Instant begin = Instant.now();
         System.out.println("Hello world");
-        Thread.sleep(72103);
+        Thread.sleep(2103);
         log.info("Elapsed Time: {}", getElapsedTime(begin));
     }
 
