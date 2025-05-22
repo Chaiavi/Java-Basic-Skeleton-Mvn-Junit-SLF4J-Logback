@@ -22,9 +22,10 @@ Download, use and start coding :-)
 - Disconnect from the Skeleton Project
   - Close the IDE
   - Delete the .git folder
+  - Rename the project folder name on disk
+  - Update the name in the pom.xml
   - Open the ide
   - Import the project from Disk
-  - Change the project name in the maven file
   - Run and see that everything works
 - Create your new project
   - Create a new project in github
